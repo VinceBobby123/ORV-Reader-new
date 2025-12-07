@@ -406,4 +406,6 @@
 <navPoint id="396" playOrder="397"><navLabel><text>949 Episode 56 Myth (1)</text></navLabel><content src="ch_397.xhtml"/></navPoint>
 <navPoint id="397" playOrder="398"><navLabel><text>950 Episode 56 Myth (2)</text></navLabel><content src="ch_398.xhtml"/></navPoint>
 <navPoint id="398" playOrder="399"><navLabel><text>951 Episode 56 Myth (3)</text></navLabel><content src="ch_399.xhtml"/></navPoint>
+<navPoint id="399" playOrder="400"><navLabel><text>952 Episode 56 Myth (4)</text></navLabel><content src="ch_400.xhtml"/></navPoint>
+<navPoint id="400" playOrder="401"><navLabel><text>953 Episode 56 Myth (5)</text></navLabel><content src="ch_401.xhtml"/></navPoint>
 </navMap></ncx>
